@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 /**
-
-* main - prints if the number is positive,negative or 
-*
-* Return: Always 0
-*/
+ * main - prints if the number is positive,negative or
+ *
+ * Return: Always 0
+ */
 int main(void)
 {
 	int n;
